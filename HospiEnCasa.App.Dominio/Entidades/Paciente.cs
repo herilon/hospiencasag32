@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 namespace HospiEnCasa.App.Dominio
 {
     /// <summary>Class <c>Paciente</c>
@@ -26,6 +27,6 @@ namespace HospiEnCasa.App.Dominio
         ///  Referencia a la lista de signos vitales de un Paciente 
         /// </summary>
         /// <value></value>
-        public System.Collections.Generic.List<SignoVital> SignosVitales { get; set; }
+        public List<SignoVital> SignosVitales { get; set; }
     }
 }
