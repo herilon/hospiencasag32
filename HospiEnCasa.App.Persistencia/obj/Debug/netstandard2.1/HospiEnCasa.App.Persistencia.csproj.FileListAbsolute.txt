@@ -1,0 +1,25 @@
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.deps.json
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csprojAssemblyReference.cache
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CopyComplete
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.deps.json
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\bin\Debug\netstandard2.1\HospiEnCasa.App.Dominio.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.AssemblyReference.cache
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.csproj.CopyComplete
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Persistencia\obj\Debug\netstandard2.1\HospiEnCasa.App.Persistencia.pdb

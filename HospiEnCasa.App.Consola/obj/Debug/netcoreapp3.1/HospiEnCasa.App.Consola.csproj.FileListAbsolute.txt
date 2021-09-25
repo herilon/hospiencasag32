@@ -1,0 +1,137 @@
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.exe
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.deps.json
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.runtimeconfig.json
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.runtimeconfig.dev.json
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Dominio.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Persistencia.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Persistencia.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Dominio.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csprojAssemblyReference.cache
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.AssemblyInfoInputs.cache
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.AssemblyInfo.cs
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csproj.CoreCompileInputs.cache
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csproj.CopyComplete
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.dll
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.pdb
+C:\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.genruntimeconfig.cache
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.exe
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.deps.json
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.runtimeconfig.json
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.runtimeconfig.dev.json
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Dominio.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Persistencia.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Persistencia.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\bin\Debug\netcoreapp3.1\HospiEnCasa.App.Dominio.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csproj.AssemblyReference.cache
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.AssemblyInfoInputs.cache
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.AssemblyInfo.cs
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csproj.CoreCompileInputs.cache
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.csproj.CopyComplete
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.dll
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.pdb
+C:\Heri\UdeC\Formacion\Ciclo 3\Grupo 32\hospitalizacion\HospiEnCasa.App\HospiEnCasa.App.Consola\obj\Debug\netcoreapp3.1\HospiEnCasa.App.Consola.genruntimeconfig.cache
