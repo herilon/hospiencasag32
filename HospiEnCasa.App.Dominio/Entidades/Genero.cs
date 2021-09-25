@@ -1,8 +1,16 @@
 namespace HospiEnCasa.App.Dominio
 {
+    /// <summary>
+    /// Lista de generos
+    /// </summary>
     public enum Genero
     {
+        Masculino,
         Femenino,
-        Masculino
+        Bisexual,
+        Intersexual,
+        Pansexual,
+        Transexual
+
     }
 }
