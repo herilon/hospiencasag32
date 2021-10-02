@@ -44,8 +44,12 @@ namespace HospiEnCasa.App.Persistencia
                 pacienteEncontrado.Nombre = paciente.Nombre;
                 pacienteEncontrado.Apellidos = paciente.Apellidos;
                 pacienteEncontrado.NumeroTelefono = paciente.NumeroTelefono;
+                pacienteEncontrado.Genero = paciente.Genero;
                 pacienteEncontrado.Direccion = paciente.Direccion;
+                pacienteEncontrado.Latitud = paciente.Latitud;
+                pacienteEncontrado.Longitud = paciente.Longitud;
                 pacienteEncontrado.Ciudad = paciente.Ciudad;
+                pacienteEncontrado.FechaNacimiento = paciente.FechaNacimiento;
                 _appContext.SaveChanges();
             }
             return pacienteEncontrado; //retorna el paciente encontrado

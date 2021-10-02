@@ -1,0 +1,24 @@
+﻿@page
+@model HospiEnCasa.App.Frontend.Pages.Pacientes.DetailsModel
+@{
+}
+<h1>Detalle del paciente</h1>
+<table class="table table-dark">
+    <tr>
+        <th scope="col">Nombre</th>
+        <td>@Model.paciente.Nombre</td>
+    </tr>
+    <tr>
+        <th scope="col">Apellido</th>
+        <td>@Model.paciente.Apellidos</td>
+    </tr>
+    <tr>
+        <th scope="col">Direccion</th>
+        <td>@Model.paciente.Direccion</td>
+    </tr>
+    <tr>
+        <th scope="col">Ciudad</th>
+        <td>@Model.paciente.Ciudad</td>
+    </tr>
+</table>
+<a asp-page="./Index" class="btn btn-primary">Volver</a>

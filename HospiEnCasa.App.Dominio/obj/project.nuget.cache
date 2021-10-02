@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GTCnRtF/OfDE9JXXODU9TEieHUSoLiyPMC7Q/vKlUu6MFgoZJuGQt6L3uXnET1iNw40Sm8/l4lp8jugEKEqBlw==",
+  "dgSpecHash": "GBEK6sGjeAdaokUfr1COWj3myOi3+Vb/uL6GhZ+jkVFJzalTIPK0ZcRcRilMpE/daAeW3BbRjqjpAhWKYKaWhA==",
   "success": true,
   "projectFilePath": "C:\\Heri\\UdeC\\Formacion\\Ciclo 3\\Grupo 32\\hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Heri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Heri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Heri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Heri\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
