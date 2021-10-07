@@ -15639,6 +15639,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Heri\\UdeC\\Formacion\\Ciclo 3\\Grupo 32\\hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Medicos\\Index.cshtml",
+      "TargetPath": "Pages\\Medicos\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Heri\\UdeC\\Formacion\\Ciclo 3\\Grupo 32\\hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Medicos\\Create.cshtml",
+      "TargetPath": "Pages\\Medicos\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Heri\\UdeC\\Formacion\\Ciclo 3\\Grupo 32\\hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Pacientes\\Index.cshtml",
       "TargetPath": "Pages\\Pacientes\\Index.cshtml",
       "FileKind": "mvc"
@@ -15666,6 +15676,11 @@
     {
       "FilePath": "c:\\Heri\\UdeC\\Formacion\\Ciclo 3\\Grupo 32\\hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Heri\\UdeC\\Formacion\\Ciclo 3\\Grupo 32\\hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Pacientes\\AddMedico.cshtml",
+      "TargetPath": "Pages\\Pacientes\\AddMedico.cshtml",
       "FileKind": "mvc"
     },
     {
