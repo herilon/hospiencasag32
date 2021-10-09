@@ -12,7 +12,9 @@ namespace HospiEnCasa.App.Persistencia
         void DeletePaciente(int idPaciente);
         Paciente GetPaciente(int idPaciente);
         Medico AsignarMedico(int idPaciente, int idMedico);
-
+        public SignoVital AsignarSignoVital(int idPaciente, SignoVital signoVital);
+        public IEnumerable<Paciente> GetPacientesGenero(int genero);
+        public IEnumerable<Paciente> SearchPacientes(string nombre);
     }
 }
 //Interfaz: Conjunto de métodos-encabezados de los métodos- No tienen implementación

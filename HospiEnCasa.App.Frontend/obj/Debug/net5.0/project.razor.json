@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Heri\\UdeC\\Formacion\\Ciclo 3\\Grupo 32\\hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Pacientes\\AddSignoVital.cshtml",
+      "TargetPath": "Pages\\Pacientes\\AddSignoVital.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Heri\\UdeC\\Formacion\\Ciclo 3\\Grupo 32\\hospitalizacion\\HospiEnCasa.App\\HospiEnCasa.App.Frontend\\Pages\\Pacientes\\Edit.cshtml",
       "TargetPath": "Pages\\Pacientes\\Edit.cshtml",
       "FileKind": "mvc"
